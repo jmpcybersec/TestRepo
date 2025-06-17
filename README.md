@@ -13,5 +13,3 @@ I'm a tech-savvy high school educator in Fort Myers, FL . I'm currently working 
 - CompTIA Linux+ ✅ *(in progress)*
 - CompTIA PenTest+ 🔜
 
-## 💬 Connect with Me
-- LinkedIn: [linkedin.com/in/jasonperretta](https://linkedin.com/in/jasonperretta)
